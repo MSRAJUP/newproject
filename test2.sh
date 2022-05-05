@@ -1,3 +1,3 @@
 #!/bib/bash
 echo $HOSTNAME
-echo ######sucess###
+echo ######sucess#####
